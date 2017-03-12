@@ -1,0 +1,7 @@
+[package]
+name = "elosuite"
+version = "0.1.0"
+authors = ["fbrand <fabian@fabianbrand.de>"]
+
+[dependencies]
+#named_pipe = "0.2.2"
